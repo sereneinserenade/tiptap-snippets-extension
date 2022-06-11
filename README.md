@@ -1,5 +1,33 @@
-# tiptap-snippets-demo
+# tiptap-snippets-extension
 
+[Tiptap 2 Extension](https://tiptap.dev) for adding videos.
+
+If you **👍 / ❤️ what I'm doing**, consider **🌟ing the repo**, **I** and the **Open-Source-Community** appreciate it very much ❤️.
+
+# Live Demo
+
+Try it out live at https://sereneinserenade.github.io/tiptap-snippets-extension, and/or take a look at a demo-video below.
+
+<details>
+  <summary> Demo Video </summary>
+  
+</details>
+
+## How to use
+
+Copy-paste [`snippet.ts`](src/components/extensions/snippet.ts) file in your own repo and import `SnippetExtension` from that file and use that as an extension. For more details see [`Tiptap.vue`](src/components/Tiptap.vue) or the example implementations below. If you have any question, feel free to [open an issue](https://github.com/sereneinserenade/tiptap-snippets-extension/issues).
+
+## Contributing
+
+Show your ❤️ by ⭐️ing this repository! It means a lot.
+
+Clone the repo, do something, make a PR(or not). You know what's the drill. Looking forward to your PRs, you amazing devs.
+
+## Awesome peeps, who've starred this repo 🚀! Thank you!
+[![Stargazers repo roster for @sereneinserenade/tiptap-snippets-extension](https://reporoster.com/stars/dark/sereneinserenade/tiptap-snippets-extension)](https://github.com/sereneinserenade/tiptap-snippets-extension/stargazers)
+
+
+---
 
 <details>
   <summary> Project Setup </summary>
