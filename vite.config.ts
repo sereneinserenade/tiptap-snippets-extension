@@ -18,6 +18,6 @@ export default defineConfig(({ mode }) => {
       }),
       Icons(),
     ],
-    base: mode === 'production' ? '/tiptap-snippets-demo/' : '/'
+    base: mode === 'production' ? '/tiptap-snippets-extension/' : '/'
   }
 })
