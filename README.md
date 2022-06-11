@@ -1,6 +1,6 @@
 # tiptap-snippets-extension
 
-[Tiptap 2 Extension](https://tiptap.dev) for adding videos.
+[Tiptap 2 Extension](https://tiptap.dev) for adding snippets.
 
 If you **👍 / ❤️ what I'm doing**, consider **🌟ing the repo**, **I** and the **Open-Source-Community** appreciate it very much ❤️.
 
@@ -11,6 +11,8 @@ Try it out live at https://sereneinserenade.github.io/tiptap-snippets-extension,
 <details>
   <summary> Demo Video </summary>
   
+https://user-images.githubusercontent.com/45892659/173204796-0743a2c9-4465-46a2-bf57-8f1696d4353f.mov
+
 </details>
 
 ## How to use
