@@ -6,13 +6,7 @@ import '@vue/runtime-core'
 declare module '@vue/runtime-core' {
   export interface GlobalComponents {
     HelloWorld: typeof import('./src/components/HelloWorld.vue')['default']
-    IconFaMoon: typeof import('~icons/fa/moon')['default']
-    IconFaSolidMoon: typeof import('~icons/fa-solid/moon')['default']
-    IconFaSolidSun: typeof import('~icons/fa-solid/sun')['default']
-    IconFaSun: typeof import('~icons/fa/sun')['default']
-    IconMdiMoon: typeof import('~icons/mdi/moon')['default']
     IconMdiMoonWaningCrescent: typeof import('~icons/mdi/moon-waning-crescent')['default']
-    IconMdiSun: typeof import('~icons/mdi/sun')['default']
     IconMdiWhiteBalanceSunny: typeof import('~icons/mdi/white-balance-sunny')['default']
     SnippetExample: typeof import('./src/components/SnippetExample.vue')['default']
     ThemeSwitchButton: typeof import('./src/components/ThemeSwitchButton.vue')['default']

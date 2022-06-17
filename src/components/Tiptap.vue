@@ -17,7 +17,7 @@ interface Snippet {
 const snippetName = ref("")
 
 const editor = useEditor({
-  content: '<p>Example of Snippets with tiptap. 🎉</p><p></p><p>Drag a snippet from right and drop it in the line above and see the magic!</p><p>PS: you can create a new snippet from current editor content by giving it a name and pressing "create snippet" button</p>',
+  content: '<p>Example of Snippets with tiptap. 🎉 If you 👍 / ❤️ what I\'m doing, consider 🌟ing the repo, I and the Open-Source-Community appreciate it very much ❤️. </p><p></p><p>Drag a snippet from right and drop it in the line above and see the magic!</p><p>PS: you can create a new snippet from current editor content by giving it a name and pressing "create snippet" button</p>',
   extensions: [StarterKit, SnippetExtension],
 })
 
